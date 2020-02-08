@@ -5,10 +5,7 @@
  */
 package Vista;
 
-/**
- *
- * @author l03m08
- */
+
 public class Vista extends javax.swing.JFrame {
 
     /**
